@@ -34,13 +34,13 @@ Open the provided web chat or embed-page link in your browser.
 Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 
 # Example Prompts
-1) “Suggest a home workout.”
+1) “What’s a good 15-minute home workout for beginners ?”
 
-2) “Give me a motivational fitness tip.”
+2) “Can you suggest a healthy meal I can cook today ?”
 
-3) “What is a healthy breakfast?”
+3) “How do I stay motivated to exercise daily ?”
 
-4) “Recommend exercises for beginners.”
+4) “What are some easy habits to start living a healthier lifestyle?”
 
 # 🖼️ Screenshots
 
