@@ -46,23 +46,29 @@ Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 
 # 🔹 Setting up..
 
-<img width="929" height="734" alt="Screenshot 2025-07-31 180353" src="https://github.com/user-attachments/assets/02919562-e9d6-4259-b393-2618c49e5876" />
+<img width="1920" height="853" alt="Set Up (2)" src="https://github.com/user-attachments/assets/5db705cb-af6b-405d-b536-07be04d59438" />
+
+<img width="1920" height="853" alt="Set Up (2)" src="https://github.com/user-attachments/assets/80ef53cb-7258-4919-ab16-7304b1f9a6ee" />
 
 # 🔹 Quick Start Questions...
 
-<img width="874" height="503" alt="image" src="https://github.com/user-attachments/assets/8cab3b2d-466c-4286-b9c0-623eb7e2535c" />
+<img width="939" height="853" alt="Sample Questions" src="https://github.com/user-attachments/assets/8a31f557-da7f-427f-9e52-930b95328489" />
 
 # 🔹 Tools used & Testing..
 
-<img width="890" height="671" alt="image" src="https://github.com/user-attachments/assets/89cf91b6-a154-4b91-a48d-3586c52ee409" />
+<img width="1920" height="786" alt="Tools" src="https://github.com/user-attachments/assets/ad6cbce9-470a-49ce-bd1f-944659a8de53" />
 
 # 🔹 Deployment & Preview...
 
-<img width="1919" height="907" alt="Screenshot 2025-07-30 213554" src="https://github.com/user-attachments/assets/10b6ee95-e898-486c-8b78-899999c2019e" />
+<img width="1920" height="839" alt="Deployment " src="https://github.com/user-attachments/assets/55ae11b1-8995-41ac-9b13-d3a0a9ad758b" />
 
-# 🔹 API References after Deployment..
+# 🔹 Deployment Code...
 
-<img width="1919" height="762" alt="image" src="https://github.com/user-attachments/assets/dacb7cf8-3dfa-4b48-9b91-089da887120b" />
+<img width="1920" height="850" alt="Deployment Code" src="https://github.com/user-attachments/assets/3a2077ea-75a4-4285-8367-659e2d023452" />
+
+# 🔹 Deployment Scheme...
+
+<img width="1920" height="846" alt="Deployment Scheme" src="https://github.com/user-attachments/assets/6b49dd69-f684-43a9-8035-512ab654436c" />
 
 # 🔹Resources List..
 
@@ -75,6 +81,16 @@ Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 # . IBM Cloud Lite Account
 # . IBM Cloud IAM
 # . IBM Cloud Object Storage
+
+# 🔹Working..
+
+<img width="1920" height="791" alt="Working 1" src="https://github.com/user-attachments/assets/a589ed05-77b2-4125-bfad-da075b8c453c" />
+
+<img width="1920" height="829" alt="Working 2" src="https://github.com/user-attachments/assets/4152d28a-94df-45d1-9d8b-c013202a6b25" />
+
+<img width="1920" height="852" alt="Working 3 " src="https://github.com/user-attachments/assets/4559ca85-e0ad-4f16-9e36-7dfd724a3aa0" />
+
+<img width="1920" height="855" alt="Working 4" src="https://github.com/user-attachments/assets/1edeff66-b41c-4cb7-b510-20bf5c3c2b3f" />
 
 # How It Works
 Built in IBM watsonx.ai Prompt Lab: Uses prompt templates to define bot personality and answer style.
